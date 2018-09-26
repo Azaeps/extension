@@ -7,7 +7,7 @@
     "default_popup" : "index.html"
   },
   "icons" : {
-    "64" : "Zon.png"
+    "128" : "Zz.png"
   },
   "background" : {
     "scripts" : ["jquery.js", "background.js"]
