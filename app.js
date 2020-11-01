@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-xhr.open("GET", "https://api.twitch.tv/kraken/streams/z_Trahm?client_id=djjhqarhxc7cl8y8ckmvoa6lwdet7n", true);
+xhr.open("GET", "https://api.twitch.tv/kraken/streams/ZedLRS?client_id=djjhqarhxc7cl8y8ckmvoa6lwdet7n", true);
 xhr.onreadystatechange = function(){
   if(xhr.readyState == 4){
     var data = JSON.parse(xhr.responseText);
